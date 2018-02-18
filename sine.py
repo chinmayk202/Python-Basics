@@ -1,4 +1,4 @@
-r = float(raw_input("Enter the number: "))
+r = float(raw_input("Enter the number(in radians): "))
 ans = 0.0
 ans = r
 r2 = r*r
